@@ -1,0 +1,21 @@
+Git - "versionamento"
+
+controle de versão
+acompanha alterações 
+evita problemas e ajuda a encontrar os problemas 
+
+Repositorio 
+
+reuni os arquivos
+organização
+
+Commit 
+
+conjunto de alterações
+descrição do que foi alterado ou a finalidade
+
+Clone 
+
+copiar o repositorio para a sua maquina 
+permite ter uma versão pra trabalhar nela 
+ 
