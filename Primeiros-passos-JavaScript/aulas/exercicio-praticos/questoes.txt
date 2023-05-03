@@ -1,0 +1,5 @@
+Exer01- Calcular media das notas de um aluno
+Exer02- Calcular o IMC e classificar dentro dos parametros já existentes
+Exer03- Calcular o valor de um produto em relação a sua forma de pagamento
+Exer04 - Criar uma classe para representar carros, marca, cor, e gasto medio. Função que mostre o valor gasto em reais para realizar um percurso
+Exer05 - Criar uma classe pessoa, e classificar IMC 
